@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+.best {
+  font-size:40px;
+  font-weight: bold;
+}
+
+.stats {
+  font-size: 30px;
+  line-height: 80px;
+}
+
+.all {
+  font-size: 20px;
+}
